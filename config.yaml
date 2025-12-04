@@ -14,3 +14,6 @@ datasheet_config:
     - tt_um_calonso88_74181
     - tt_um_dvxf_dj8v_dac
     - tt_um_maheredia
+
+  include:
+    - docs/chip_map.typ
